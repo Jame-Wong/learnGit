@@ -4,5 +4,5 @@ fdisk只能处理2 TB以下磁盘分区；parted能处理2 TB以上磁盘分区�
 //add on branch master
 
 
-//add on branch feature1
+//modify on branch feature2
 
